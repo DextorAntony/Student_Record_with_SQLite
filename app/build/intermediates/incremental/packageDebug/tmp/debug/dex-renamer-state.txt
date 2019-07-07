@@ -1,0 +1,7 @@
+#Sun Jul 07 17:17:39 IST 2019
+base.0=/home/t0x1c/AndroidStudioProjects/StudentRecordwithSqlite2/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/t0x1c/AndroidStudioProjects/StudentRecordwithSqlite2/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
